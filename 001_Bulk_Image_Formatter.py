@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 # coding: utf-8
+
 # Project: Bulk Image Formatter 
 # -Change the dimensions and edit a large number of files
 
