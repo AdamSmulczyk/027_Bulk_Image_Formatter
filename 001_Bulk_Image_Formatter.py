@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 # Project: Bulk Image Formatter 
-
 # -Change the dimensions and edit a large number of files
 
 # 1.Find all JPG images in a folder
