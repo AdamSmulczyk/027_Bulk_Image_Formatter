@@ -1,7 +1,6 @@
 import os
 from PIL import Image, ImageDraw, ImageFont
 import argparse
-
 import math
 
 def add_watermark(img, text="Zeno", opacity=50):
