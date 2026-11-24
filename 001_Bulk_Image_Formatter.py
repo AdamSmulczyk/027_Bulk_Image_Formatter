@@ -5,6 +5,7 @@
 # -Change the dimensions and edit a large number of files
 
 # 1.Find all JPG images in a folder
+
 # 2.Crop them to 500x500 pixels (from the center)
 # 3.Convert them to PNG format
 # 4.Save the converted images
